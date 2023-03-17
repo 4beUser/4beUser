@@ -2,8 +2,7 @@
 
 <h2 align="center">
 - 📫 Contate-me no e-mail: danieltinois.developer@gmail.com
-  </h2>
-  <h2 align="center">
+  </br>
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
 </h2>
 
