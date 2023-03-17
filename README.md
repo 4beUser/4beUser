@@ -1,11 +1,11 @@
 <h1 align="center">Olá 🤗 , eu sou o Daniel Tinois!</h1>
 
-<p align="center">
+<h2 align="center">
 - 📫 Contate-me no e-mail: danieltinois.developer@gmail.com
-  </p>
-  <p align="center">
+  </h2>
+  <h2 align="center">
 - ⚡ Sempre me entregando ao maximo em tudo que faço!
-</p>
+</h2>
 
 <div align="center">
   <a href="https://github.com/danieltinois">
